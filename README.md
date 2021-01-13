@@ -7,5 +7,7 @@ I'm from and (for the time being) permanently live in St. Louis, Missouri. It's 
 I plan on going somewhere (anywhere in the USA, really) in the IT or Software Engineering field. I hope to be a part of something that's more hands-on than sitting around coding all day.
 
 Check me out on my platforms:
+
 https://github.com/mtburnes
+
 https://linkedin.com/in/mtburnes
