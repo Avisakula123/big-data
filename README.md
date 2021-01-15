@@ -13,4 +13,4 @@ https://github.com/mtburnes
 
 https://linkedin.com/in/mtburnes
 
-![](IMG_4061.JPG)
+![](IMG_4061resized.JPG)
